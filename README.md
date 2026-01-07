@@ -54,10 +54,7 @@
 ## 📂 Klasör Yapısı
 
 ```text
-FreshMarket/
-├── SourceCode/
 │   ├── frontend/     # React Projesi (src, public, package.json)
 │   ├── backend/      # Spring Boot Projesi (src, pom.xml)
 │   └── database/     # SQL dökümü (.sql)
-├── Report.pdf        # Proje Tanıtım Raporu
 └── README.md         # Kurulum Klavuzu
