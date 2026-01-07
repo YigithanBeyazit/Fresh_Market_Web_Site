@@ -54,7 +54,7 @@
 ## 📂 Klasör Yapısı
 
 ```text
-│   ├── frontend/     # React Projesi (src, public, package.json)
-│   ├── backend/      # Spring Boot Projesi (src, pom.xml)
-│   └── database/     # SQL dökümü (.sql)
-└── README.md         # Kurulum Klavuzu
+frontend/     # React Projesi (src, public, package.json)
+backend/      # Spring Boot Projesi (src, pom.xml)
+database/     # SQL dökümü (.sql)
+README.md     # Kurulum Klavuzu
